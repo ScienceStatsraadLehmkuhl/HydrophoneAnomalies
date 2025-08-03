@@ -104,7 +104,7 @@ Running the script in a Jupyter Notebook is great for interactive analysis and d
 
 This Readme was written with Gemini
 
-Author is Thomas Rost
+Main Author of the code is Thomas Rost, Code itself was supported by AI (SHOULD be acknowledged in the files themselves but.. better safe than sorry)
 
 =======
 # HydrophoneAnomalies
